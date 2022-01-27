@@ -2,7 +2,7 @@
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 
-1. **Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**|   |   |
+1. **Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
 
 	1.[22,27|16,2,18,6] -> n [ Bu Adımda 22 27 'den büyük oldugu için işlem yapılmaz]
 	2.[16,22,27|2,18,6] -> n-1
